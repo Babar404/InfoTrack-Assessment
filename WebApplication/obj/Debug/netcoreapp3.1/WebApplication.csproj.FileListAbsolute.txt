@@ -1,0 +1,121 @@
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Hellang.Middleware.ProblemDetails.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Core.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Core.pdb
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.exe
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.deps.json
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.json
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.runtimeconfig.dev.json
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Hellang.Middleware.ProblemDetails.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\MediatR.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Core.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Core.pdb
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.AssemblyReference.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfoInputs.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.AssemblyInfo.cs
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CoreCompileInputs.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Manifest.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication.StaticWebAssets.Pack.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.WebApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.WebApplication.props
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.WebApplication.props
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.WebApplication.props
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.RazorTargetAssemblyInfo.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll

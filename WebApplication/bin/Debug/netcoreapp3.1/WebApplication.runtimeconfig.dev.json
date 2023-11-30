@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\talha.naveed\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\talha.naveed\\.nuget\\packages"
+    ]
+  }
+}

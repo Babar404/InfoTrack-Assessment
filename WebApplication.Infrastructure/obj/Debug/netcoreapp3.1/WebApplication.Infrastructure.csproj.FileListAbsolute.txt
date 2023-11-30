@@ -1,0 +1,20 @@
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.deps.json
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\faraz.haroon\Downloads\OneDrive_2023-11-25\Babar (Brendon) Zaman - NSW M2-M3 Full Stack Developer\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.deps.json
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\talha.naveed\Downloads\Test\Test\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
